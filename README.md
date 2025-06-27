@@ -44,11 +44,3 @@
 </p>
 
 ---
-
-### 🚀 Featured Projects
-
-- 🔗 **[Meme Generator App](https://meme-generator-sammar.netlify.app/)** — React + Vite-based fun meme creator
-- 🧾 **Manager Application** — Web-based accountancy system with authentication, search, MongoDB pipelines, and Swagger docs
-- 💊 **Medical App** — Desktop app for managing accounts, inventory, and cash flow in a medical setup
-
----
